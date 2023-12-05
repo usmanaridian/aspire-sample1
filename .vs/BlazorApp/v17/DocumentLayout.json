@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\samples\\DotNet\\.Net-Aspire\\BlazorApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74679F8C-74FB-41F1-B6AB-98EA08835D1D}|BlazorApp\\BlazorApp.csproj|c:\\users\\user\\source\\samples\\dotnet\\.net-aspire\\blazorapp\\blazorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74679F8C-74FB-41F1-B6AB-98EA08835D1D}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74679F8C-74FB-41F1-B6AB-98EA08835D1D}|BlazorApp\\BlazorApp.csproj|c:\\users\\user\\source\\samples\\dotnet\\.net-aspire\\blazorapp\\blazorapp\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74679F8C-74FB-41F1-B6AB-98EA08835D1D}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9788269-36C4-4849-97F3-CE2FD96E494E}|WeatherAPI\\WeatherAPI.csproj|c:\\users\\user\\source\\samples\\dotnet\\.net-aspire\\blazorapp\\weatherapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9788269-36C4-4849-97F3-CE2FD96E494E}|WeatherAPI\\WeatherAPI.csproj|solutionrelative:weatherapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D8F26C-FAF2-4247-9FB5-44301CA25616}|BlazorApp.AppHost\\BlazorApp.AppHost.csproj|c:\\users\\user\\source\\samples\\dotnet\\.net-aspire\\blazorapp\\blazorapp.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D8F26C-FAF2-4247-9FB5-44301CA25616}|BlazorApp.AppHost\\BlazorApp.AppHost.csproj|solutionrelative:blazorapp.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\samples\\DotNet\\.Net-Aspire\\BlazorApp\\BlazorApp\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorApp\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\samples\\DotNet\\.Net-Aspire\\BlazorApp\\BlazorApp\\Program.cs",
+              "RelativeToolTip": "BlazorApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-04T19:38:23.988Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\samples\\DotNet\\.Net-Aspire\\BlazorApp\\BlazorApp.AppHost\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorApp.AppHost\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\samples\\DotNet\\.Net-Aspire\\BlazorApp\\BlazorApp.AppHost\\Program.cs",
+              "RelativeToolTip": "BlazorApp.AppHost\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-04T19:50:33.828Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\samples\\DotNet\\.Net-Aspire\\BlazorApp\\WeatherAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WeatherAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\samples\\DotNet\\.Net-Aspire\\BlazorApp\\WeatherAPI\\Program.cs",
+              "RelativeToolTip": "WeatherAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-04T19:45:26.114Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\User\\source\\samples\\DotNet\\.Net-Aspire\\BlazorApp\\BlazorApp\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "BlazorApp\\Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\User\\source\\samples\\DotNet\\.Net-Aspire\\BlazorApp\\BlazorApp\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "BlazorApp\\Components\\Pages\\Weather.razor",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-04T19:43:54.788Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
